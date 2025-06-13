@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**intAV/intAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**intAV/intAV** is a ✨ _special_ ✨ repository because its `README.md1` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

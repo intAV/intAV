@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=intAV)
 -->
 
-![Views](https://intav.github.io/docs/?t={timestamp})
+![Views](https://intav.github.io/docs/)

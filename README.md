@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 ![Views](https://count.helpserver.dpdns.org/?t={timestamp})
 
-![Views](https://intav.github.io/docs?t={timestamp})
+![Views](https://intav.github.io/docs/?t={timestamp})

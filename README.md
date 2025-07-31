@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=intAV)
 -->
-![Views](https://9000-firebase-github-count-1753972996154.cluster-vyr53kd25jc2yvngldrwyq6zc4.cloudworkstations.dev/counter?t={{ timestamp }})
+![Views](https://9000-firebase-github-count-1753972996154.cluster-vyr53kd25jc2yvngldrwyq6zc4.cloudworkstations.dev/counter)

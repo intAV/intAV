@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Views](https://9000-firebase-github-count-1753972996154.cluster-vyr53kd25jc2yvngldrwyq6zc4.cloudworkstations.dev/counter)
 -->
-![Views](https://intav.github.io/docs/)
+![Views](https://intav.github.io/docs?t={{timestamp}})

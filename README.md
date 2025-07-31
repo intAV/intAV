@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 &style=pixel //隐藏参数
 -->
 ![](https://komarev.com/ghpvc/?username=intAV)
+![Views]([http://your-server-ip:5000/counter](https://9000-firebase-github-count-1753972996154.cluster-vyr53kd25jc2yvngldrwyq6zc4.cloudworkstations.dev/counter))
+

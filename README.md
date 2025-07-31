@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=intAV)
 -->
 
-![Views](https://intav.github.io/docs/?force=1)
+[![访问统计](https://img.shields.io/badge/访问统计-点击查看-blue)](https://intav.github.io/docs/)

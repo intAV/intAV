@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 ![Views](https://9000-firebase-github-count-1753972996154.cluster-vyr53kd25jc2yvngldrwyq6zc4.cloudworkstations.dev/counter)
 -->
 ![Views](https://intav.github.io/docs/)
-[![访问统计](https://img.shields.io/badge/访问统计-点击查看-blue)](https://intav.github.io/docs/)

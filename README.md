@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=intAV)
 -->
 
-<a href="https://intav.github.io/docs/" target="_blank"><img src="https://img.shields.io/badge/访客统计-点击查看-blue" alt="访客统计"></a>
+[![访客统计](https://img.shields.io/badge/访客统计-点击查看-blue)](https://intav.github.io/docs/)

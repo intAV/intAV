@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=intAV)
 -->
 
-[![访客统计](https://img.shields.io/badge/访客统计-点击查看-blue)](https://intav.github.io/docs/)
 
 ![访客统计](https://git.helpserver.dpdns.org/?t=timestamp) 

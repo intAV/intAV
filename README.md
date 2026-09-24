@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=intAV&style=pixel)
 ![](https://git.028110.dpdns.org/?t=timestamp)[![访问统计](https://img.shields.io/badge/访问统计-点击查看-blue)](https://intav.github.io/docs/)
-[![](https://img.shields.io/badge/撸管杨景媛-red)](https://github.com/intAV/yangjingyuan)
+<!-- [![](https://img.shields.io/badge/撸管杨景媛-red)](https://github.com/intAV/yangjingyuan) -->
